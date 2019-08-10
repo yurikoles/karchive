@@ -40,7 +40,6 @@ class KFilterBase;
  */
 class KARCHIVE_EXPORT KFilterDev : public KCompressionDevice
 {
-    Q_OBJECT
 public:
     /**
      * @since 5.0
